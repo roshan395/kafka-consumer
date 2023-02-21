@@ -9,7 +9,7 @@ import com.course.kafkaconsumer.entity.Employee;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-@Service
+//@Service
 public class EmployeeJsonConsumer {
 
 	//private ObjectMapper objectMapper = new ObjectMapper();
